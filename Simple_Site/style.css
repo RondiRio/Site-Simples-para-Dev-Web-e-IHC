@@ -1,0 +1,192 @@
+ /* .logo{ */
+    /* background-color: black; */
+    /* border: solid red 1px; */
+    /* float: left; */
+/* }  */
+/* .cabecalho{
+    border: solid blue 2px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(203, 208, 240);
+
+} */
+/* .links li{
+    float: right;
+    /* border: solid yellow; */
+    /* list-style: none; */
+    /* margin-top: -15px; */
+/* } */
+/* .links li a:hover{
+    background-color: rgb(28, 174, 190);
+    margin-left: 5px;
+    color: white;
+    border-radius: .2em;
+    text-decoration: none;
+    
+} */
+/* .links li a{
+    /* background-color: rgb(28, 174, 190); */
+    /* margin-left: 5px;
+    color: white;
+    transition: .5s;
+    text-decoration: none; */
+/* } */
+/* .contentSection{
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+    border: solid red 1px;
+} */
+/* .contentCenter{
+    margin-top: -1490px;
+    margin-left: 410px;
+    margin-right: 50px;
+    border: solid red 1px;
+    text-align: center;
+} */
+/* .contentLeft{
+    text-align: left;
+}
+.contentRigth{
+    text-align: right;
+} */
+
+/* #DataScience{
+    border: solid red;
+    margin-right: 800px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background: #737579;
+    color: white;
+    text-align: justify;
+    
+} */
+/* #DataBase{
+    border: solid red;
+    margin-right: 800px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background: #737579;
+    color: white;
+    text-align: justify;
+    
+} */
+/* #WebScraping{
+    border: solid red;
+    margin-right: 800px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background: #737579;
+    color: white;
+    text-align: justify;
+    
+} */
+/* #IOT{
+    border: solid red;
+    margin-right: 800px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background: #737579;
+    color: white;
+    text-align: justify;
+    
+} */
+
+/* #DataScience img{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    border-radius: 2vh;
+    border: solid grey;
+}
+#DataBase img{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    border-radius: 2vh;
+    border: solid grey;
+}
+#WebScraping img{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    border-radius: 2vh;
+    border: solid grey;
+}
+#IOT img{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    border-radius: 2vh;
+    border: solid grey;
+}
+
+#DataScience p{
+    margin-left: 5px;
+    margin-bottom: 10px;
+    border-radius: 2vh;
+}
+#DataBase p{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 2vh;
+}
+#WebScraping p{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 2vh;
+} */
+/* #IOT p{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 2vh;
+} */
+
+a{
+    color: white;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #203864;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+h1, h2 {
+    color: #203864;
+}
+
+main {
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
